@@ -1,5 +1,5 @@
 # Projects
-Gst Calculator(2).cpp
+1. Gst Calculator(2).cpp
 GST calculator.
 It calculates all kinds of tax on a product.
 The program is divided into four different sections allowing the user to have a wide variety of choices.
